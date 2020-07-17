@@ -28,6 +28,7 @@ I’m currently working on the [CanDIG](https://www.distributedgenomics.ca/) pro
 
 ### 📫 Reach out
 - [LinkedIn](https://www.linkedin.com/in/felipecoralsasso/)
+- [Twitter](https://twitter.com/felipecsasso)
 
 <!--
 **felipesasso/felipesasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
