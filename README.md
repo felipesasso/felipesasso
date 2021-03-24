@@ -2,8 +2,7 @@
 
 Hi, I am Felipe. I hold a Master's Degree in Computer Science 🎓.
 
-I am a Research Programmer at [BC Cancer](http://www.bccancer.bc.ca/) in Vancouver, British Columbia.
-I’m currently working on the [CanDIG](https://www.distributedgenomics.ca/) project, a Canada wide distributed genomics sharing platform.
+I am a Back End Developer at [SenseData](https://www.sensedata.com.br/) in São Paulo, Brazil.
 
 ### Skills and Experience
 #### Coding and Frameworks 
