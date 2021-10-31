@@ -14,7 +14,7 @@ I am a Back End Developer at [SenseData](https://www.sensedata.com.br/) in São 
 #### Testing
 - Unittest framework
 - PyTest
-- Nose
+- Nose2
 - Tox
 
 #### Misc
