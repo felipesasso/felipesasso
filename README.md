@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Hi, I am Felipe. I hold a Master's Degree in Computer Science 🎓.
-
-I am a Back End Developer at [SenseData](https://www.sensedata.com.br/) in São Paulo, Brazil.
+- Master's Degree in Computer Science 🎓
+- Software Engineer at BairesDev
 
 ### Skills and Experience
 #### Coding and Frameworks 
