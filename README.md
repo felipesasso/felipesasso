@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- Master's Degree in Computer Science 🎓
-- Software Engineer at BairesDev
+Full-stack developer with 5+ years of experience building robust back-end systems with Python and dynamic user interfaces with React.
 
 ### Skills and Experience
 #### Coding and Frameworks 
